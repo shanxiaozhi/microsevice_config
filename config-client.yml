@@ -16,7 +16,7 @@ eureka:
   service-url:
     defaultZone: http://admin:a@localhost:7301/eureka
 info:
-  app.name: microsercice-test-client
+  app.name: microsercice-test-client444444
   company.name: yc
 ---
 server:
